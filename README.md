@@ -9,7 +9,7 @@
 
 ## Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,postgresql,django,docker,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,nextjs,redux,tailwind,nodejs,express,nestjs,mongodb,mysql,postgresql,prisma,django,docker,aws,git,github,linux,vscode" />
 </p>
 
 <table>
@@ -26,7 +26,7 @@
       <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tewodros-m&theme=tokyonight" />
     </td>
     <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=tewodros-m&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=350" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tewodros-m&theme=tokyonight" />
     </td>
   </tr>
 </table>
